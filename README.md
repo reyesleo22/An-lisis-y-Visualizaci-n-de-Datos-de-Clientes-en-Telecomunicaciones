@@ -1,5 +1,5 @@
 
-# 📊 Proyecto 8 – Análisis y Visualización de Datos de Clientes en Telecomunicaciones
+# 📊 Análisis y Visualización de Datos de Clientes en Telecomunicaciones
 
 Este proyecto forma parte del portafolio del curso de Data Analytics. El objetivo principal es analizar una base de datos de clientes del sector de telecomunicaciones para detectar tendencias, comportamientos y oportunidades de mejora operativa.
 
